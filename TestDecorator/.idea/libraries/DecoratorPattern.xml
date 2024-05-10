@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DecoratorPattern">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/es2/blackboxpartitioning/DecoratorPattern.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/com/es2/blackboxpartitioning/DecoratorPattern.jar!/" />
+    </SOURCES>
+  </library>
+</component>
